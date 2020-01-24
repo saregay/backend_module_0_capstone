@@ -7,17 +7,19 @@ name = "Ron"
 team = "Chudley Cannons"
 
 p "The #{team} are #{name}'s favorite Quidditch team"
+p "My son #{name} thinks the #{team} are the worlds worst soccer team."
+
 
 # Write code that combines the variables below into a string that reads "The
 # quick red fox jumped over the lazy brown dog":
 speedy = "quick red fox"
 slow_poke = "lazy brown dog"
 
-p # YOUR CODE HERE
+p "My baby sisters favorite scene to watch is when the #{speedy} jumped over the #{slow_poke} in the movie, The lazy Dog."
 
 # Write code that combines the variables below into a string that reads "In a
 # predictable result, the tortoise beat the hare!"
 slow_poke = "tortoise"
 speedy = "hare"
 
-# YOUR CODE HERE
+p "The irony of the sory of the #{slow_poke} and #{speedy} is that in a predicatable result, the #{slow_poke} beat the #{speedy}! "
