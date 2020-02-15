@@ -10,15 +10,18 @@ puts "hello world!"
 
 2. What is the character you would use to indicate comments in a ruby file?
 
-answer: I would use #
-
+answer:
+```ruby
+I would use "#" to indicate comments in a ruby file.
+```
 
 3. Explain the difference between an integer and a float?
 
 answer:
+```ruby
 Integers: are whole numbers (not a fraction). They can be positive, negative or zero.
 Floats: are decimal points. They can be positive or negative.
-
+```
 
 4. In the space below, create a variable `animal` that holds the string `"zebra"`
 
@@ -45,12 +48,16 @@ puts " #{book_shop} is my favorite library."
 
 7. How do we get input from a user? What is the method that we would use?
 
+```ruby
 answer: we would use gets. And we use the gets.chomp method.
+```
 
 
 8. Name and describe two common string methods.
 
+```ruby
 answer: String Concatenation:
-  This method allows us to join two strings with a plus sign.
+This method allows us to join two strings with a plus sign.
   .sub:
-  This method allows us to substitute or replace a word with another word. 
+  This method allows us to substitute or replace a word with another word.
+```
