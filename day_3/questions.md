@@ -49,10 +49,10 @@ so that if the condition is met, a fallow up action could be performed.
 
 1. What is the Ruby syntax for an if statement?
 
-`If(condition1)
+```If(condition1)
   print (x)
 end
-`
+```
 
 
 1. How do you add multiple conditions to an if statement?
